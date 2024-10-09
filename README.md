@@ -1,3 +1,3 @@
 # Data-Analysis
 
-Different notebooks with data analysis of various subjects.
+Different notebooks with data analysis on various subjects.
