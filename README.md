@@ -1,3 +1,3 @@
 # Data-Analysis
 
-Different notebooks that I've made analyzing public datasets.
+Different notebooks that I have made analyzing public datasets.
